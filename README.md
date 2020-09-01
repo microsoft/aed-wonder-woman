@@ -1,3 +1,45 @@
+# Wonder Woman Learn Modules
+
+This repo contains new Microsoft Learn content for Wonder Woman themed Learn Modules.
+
+## Timeline
+
+| Item | Owner | Status | Deadline | 
+|------|-------|--------|----------|
+| Propose content | @sguthals | Complete | 8/31/20 |
+| Get content into Learn and with the vendor | @shanama | Not Started | < DATE > |
+| Request art assets | @shanama | Not Started | < Date > |
+| Write Content | @sguthals | In Progress | 9/2/20 |
+| Review Content | < YOUR REVIEWER(S) NAME(S) > | Not Started | < DATE > |
+| Content to Aquent | @sguthals | Not Started | < DATE > |
+| Content Draft on Learn | Aquent | Not Started | < DATE > |
+| Sign off on Content on Learn | @sguthals | Not Started | < DATE > |
+| Publish Content | @shanama | Not Started | 9/20/20 |
+| Review Live Content | @sguthals | Not Started | 9/25/20 |
+
+## Content Overview
+
+< Description of content here >
+
+| Type | Title | Description | Duration | 
+|------|-------|-------------|----------|
+| Learning Path | My LP 1 | This LP is so cool | 30 mins |
+| Module | My M1 as part of LP1 | This module is awesome | 10 mins |
+| Module | My M2 as part of LP1 | This module is awesome | 10 mins |
+| Module | My M2 as part of LP1 | This module is awesome | 10 mins |
+| Learning Path | My LP 2 | This LP is so cool | 30 mins |
+| Module | My M1 as part of LP2 | This module is awesome | 10 mins |
+| Module | My M2 as part of LP2 | This module is awesome | 10 mins |
+| Module | My M2 as part of LP2 | This module is awesome | 10 mins |
+
+## Promotion and Marketing
+
+[Link to marketing plan](TBD): Sarah will have a template for this
+
+## Other Information
+
+< Any comments you want to add here, brainstorming, research, etc >
+
 
 # Contributing
 
@@ -29,3 +71,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
