@@ -1,0 +1,33 @@
+### YamlMime:Module
+uid: learn.student-evangelism.wonder-woman-and-tech
+metadata:
+  title: Summary of the Wonder Woman Codehunt Challenge
+  description: 
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Summary of the Wonder Woman Codehunt Challenge
+summary: 
+abstract: |
+In this module, you'll
+- Dive into Wonder Woman's world through the Codehunt challenge
+- Use your problem solving skills to decipher codes
+- Discover the challenges that you will solve with Python code in future modules
+prerequisites: |
+ - None
+iconUrl: https://docs.microsoft.com/media/learn/module.svg
+levels:
+- beginner
+roles:
+- student, developer
+products:
+- 
+units:
+- learn.student-evangelism.wonder-woman-in-tech.introduction
+- learn.student-evangelism.wonder-woman-in-tech.dive-into-wonder-woman
+- learn.student-evangelism.wonder-woman-in-tech.wonder-woman-codehunt
+- learn.student-evangelism.wonder-woman-and-tech.codehunt-summary
+badge:
+  uid: 

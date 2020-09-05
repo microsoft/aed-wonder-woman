@@ -1,0 +1,28 @@
+### YamlMime:Module
+uid: learn.student-evangelism.python-secret-message-decoder
+metadata:
+  title: Decode Secret Messages for Wonder Woman with Python and Visual Studio Code
+  description: There’s a secret message that needs a code cracker to find the truth. Learn how to crack a code that reveals a location inspired by WONDER WOMAN 1984. Get a glimpse into the popular Python programming language with this introductory lesson that requires no prior background. 
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Decode Secret Messages for Wonder Woman with Python and Visual Studio Code
+summary: There’s a secret message that needs a code cracker to find the truth. Learn how to crack a code that reveals a location inspired by WONDER WOMAN 1984. Get a glimpse into the popular Python programming language with this introductory lesson that requires no prior background. 
+abstract: |
+ In this module, you will begin to discover: 
+ - 
+prerequisites: |
+ - None
+iconUrl: https://docs.microsoft.com/media/learn/module.svg
+levels:
+- beginner
+roles:
+- student, developer
+products:
+- vs-code
+units:
+- 
+badge:
+  uid: 

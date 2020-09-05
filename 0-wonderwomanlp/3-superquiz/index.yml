@@ -1,0 +1,28 @@
+### YamlMime:Module
+uid: learn.student-evangelism.python-quiz-builder
+metadata:
+  title: Create a Quiz to Determine Your Super Power with Python and Visual Studio Code
+  description: Which WONDER WOMAN 1984 character are you most like? Use the popular programming language Python to build a quiz inspired by WONDER WOMAN 1984 and share it with your friends. This lesson will teach you the basics of booleans, commands, and conditionals. No prior background in computer science is needed.
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Create a Quiz to Determine Your Super Power with Python and Visual Studio Code
+summary: Which WONDER WOMAN 1984 character are you most like? Use the popular programming language Python to build a quiz inspired by WONDER WOMAN 1984 and share it with your friends. This lesson will teach you the basics of booleans, commands, and conditionals. No prior background in computer science is needed.
+abstract: |
+ In this module, you will begin to discover: 
+ - 
+prerequisites: |
+ - None
+iconUrl: https://docs.microsoft.com/media/learn/module.svg
+levels:
+- beginner
+roles:
+- student, developer
+products:
+- vs-code
+units:
+- 
+badge:
+  uid: 

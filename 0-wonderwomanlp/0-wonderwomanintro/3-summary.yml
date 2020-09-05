@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.student-evangelism.wonder-woman-and-tech.codehunt-summary
+metadata:
+  title: Summary of the Wonder Woman Codehunt Challenge
+  description: 
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Summary of the Wonder Woman Codehunt Challenge
+durationInMinutes: 
+content: |
+  [!include[](includes/3-summary.md)]

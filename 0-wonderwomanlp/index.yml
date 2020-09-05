@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn.student-evangelism.python-basics-with-wonder-woman
+metadata:
+  title: Learn Python Basics with Wonder Woman
+  description: Have you been interested in learning Python, but looking for some inspiration? We've got you covered! Microsoft has excited to partner with the WONDER WOMAN 1984 film to make learning Python a bit more...powerful.
+  brand: azure
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Learn Python Basics with Wonder Woman
+summary: |
+  Have you been interested in learning Python, but looking for some inspiration? We've got you covered! Microsoft has excited to partner with the WONDER WOMAN 1984 film to make learning Python a bit more...powerful.
+  In this learning path, you'll:
+    - Discover all the ways you can engage with the WONDER WOMAN 1984 film with code
+    - Write your first lines in Python
+    - Build a message decoder program
+    - Create a super power quiz to determine what super powers you would have if you were in the DC Universe
+  
+  Once you complete this learning path, you will have a great foundation to build upon in subsequent Python Learning Paths.
+prerequisites: None
+iconUrl: 
+levels:
+- beginner
+roles:
+- student, developer
+products:
+- vs-code
+modules:
+- learn.student-evangelism.wonder-woman-and-tech
+- learn.languages.python-install-vscode
+- learn.student-evangelism.python-secret-message-decoder
+- learn.student-evangelism.python-quiz-builder
+trophy:
+  uid: learn.student-evangelism.python-basics-with-wonder-woman.trophy
