@@ -1,15 +1,14 @@
 ### YamlMime:ModuleUnit
-uid: 
+uid: learn.student-evangelism.python-secret-message-decoder.setup-vscode-for-decoding
 metadata:
-  title: Setup Your Local Environment to Crack the Code
+  title: Ensure Visual Studio Code is Ready to Decode Messages
   description: 
   ms.date: 9/21/20
   author: 
-  ms.author: @sguthals
+  ms.author: sguthals
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  zone_pivot_groups: os
-title: 
+title: Ensure Visual Studio Code is Ready to Decode Messages
 durationInMinutes: 3
 content: |
-  [!include[](includes/1-unit.md)]
+  [!include[](includes/1-setup-vscode-for-decoding.md)]

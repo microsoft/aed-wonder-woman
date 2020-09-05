@@ -23,6 +23,7 @@ roles:
 products:
 - vs-code
 units:
-- 
+- learn.student-evangelism.python-secret-message-decoder.introduction
+- learn.student-evangelism.python-secret-message-decoder.setup-vscode-for-decoding
 badge:
   uid: 

@@ -1,40 +1,36 @@
----
-layout: home
-banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
----
+# Ensure Visual Studio Code is Ready to Decode Messages
 
-# **Secret Message inspired by WONDER WOMAN 1984, coming to theaters**
-
-![WONDER WOMAN 1984 coming to theaters](../images/ww84_edu_00_github_coming_soon.png)
-
----
+Before you jump in to writing a program to decode messages, you should make sure your local environment is setup properly.
 
 Let’s start by creating a folder on your computer where you can find easily it. Call it “WW84”—I created mine in my Documents folder.
 
-<img width="588" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89684912-30099700-d8b0-11ea-952c-18ac54736ba0.png">
+![WW84 folder creation]()
 
 Then open Visual Studio Code and select "Open folder..." from the start screen; open your WW84 folder.
 
-<img width="393" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/84750307-f5e6dd80-af6f-11ea-8001-741dd19422d2.png">
+![Select open folder in VSCode]()
 
----
+Next create a file called "decrypt.py".
 
-Next create a file called "decrypt.py". 
-
-<img width="662" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89685377-187ede00-d8b1-11ea-9965-c2d553bcbcff.png">
+![Create a new file called decrypt.py]()
 
 Also feel free to close the Welcome tab now.
+
 **Note:** As you are coding in Python, Visual Studio Code will suggest other powers to add to Visual Studio Code, such as "Linters". You don't need these for this project, so feel free to ignore them.
 
 
-The first thing we’ll do is make sure our command center works. We’ll give a simple command that tells the Python to print us a message. Copy the following command into your file:
+The first thing we’ll do is make sure our command center (code editor) works. We’ll give a simple command that tells the Python to print us a message. Copy the following command into your file:
+
 ```python
 print( "Hello, Themyscira!" )
 ```
 
-<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89685504-57ad2f00-d8b1-11ea-89e4-315e4d2c99ea.png">
+Your editor should resemble this:
+
+![Hello, Themyscira code]()
 
 To have the Python follow your commands, press the green Play button in the upper right corner. You should see a message from the Python below.
 
-<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89685620-8d521800-d8b1-11ea-9a2f-11715b16bfb4.png">
+![Hello, Themyscira execution]()
 
+Now you're ready to learn some of the Python basics needed to build your decoder.
