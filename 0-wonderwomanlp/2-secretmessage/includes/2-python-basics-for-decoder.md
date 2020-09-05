@@ -20,10 +20,10 @@ Coding is essentially the movement and manipulation of data; but imagine writing
 
 In Python we have "variables", which are like containers that have a name and store date. You can also think of variables like codenames to information that we want our program to remember and have access to later.
 
-The following command tells the Python to associate the codename/variable diana with the information "WONDER WOMAN 1984". To do this, you use the assignment `=` sign operator. Any time after this command, when the Python sees codename  `diana`, it will substitute in "WONDER WOMAN 1984"!
+The following command tells the Python to associate the codename/variable diana with the information "WONDER WOMAN 1984". To do this, you use the assignment `=` sign operator. Any time after this command, when the Python sees variable  `diana`, it will substitute in "WONDER WOMAN 1984"!
 
 ```python
-# associate code name (variable) diana with
+# associate variable diana with
 # the value "WONDER WOMAN 1984"
 diana = "WONDER WOMAN 1984"
 ```
@@ -31,7 +31,7 @@ diana = "WONDER WOMAN 1984"
 Try it out by replacing the commands in your file with the following. (If you’re wondering what the + sign is doing, it “glues together” phrases into a longer phrase.)
 
 ```python
-# associate code name diana with
+# associate variable diana with
 # the phrase "WONDER WOMAN 1984"
 diana = "WONDER WOMAN 1984"
 
@@ -77,3 +77,4 @@ Press the Play Button, and you should see the chant printed in the console at th
 ![The output from calling the chant function]()
 
 Great! Now that you know the basics, let's get to decrypting the note!
+

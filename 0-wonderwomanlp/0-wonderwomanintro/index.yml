@@ -2,14 +2,14 @@
 uid: learn.student-evangelism.wonder-woman-and-tech
 metadata:
   title: Wonder Woman and the Power of Tech
-  description: 
+  description: This module serves as an introduction to the Wonder Woman inspired learning path that introduces Python to novice student developers. 
   ms.date: 9/21/20
   author: 
   ms.author: sguthals
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: Wonder Woman and the Power of Tech
-summary: 
+summary: In this module you will get an introduction to why Microsoft was so inspired by Wonder Woman to use themes from the movie to create learn to code lessons in the form of a learning path.
 abstract: |
 In this module, you'll
 - Dive into Wonder Woman's world through the Codehunt challenge

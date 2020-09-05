@@ -1,43 +1,56 @@
 ### YamlMime:ModuleUnit
-uid: 
+uid: learn.student-evangelism.python-secret-message-decoder.summary
 metadata:
-  title: Summary
+  title: What's Next in the World of Decoding Messages?
   description: Summary
   ms.date: 9/21/20
   author: 
-  ms.author: @sguthals
+  ms.author: sguthals
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-title: Summary
-durationInMinutes: 4
+title: What's Next in the World of Decoding Messages?
+durationInMinutes: 
 content: |
-  [!include[](includes/3-summary.md)]
+  [!include[](includes/7-summary.md)]
 quiz:
   title: Check your knowledge
   questions:
-  - content: "Question1"
-    - content: "Answer1"
+  - content: "ASCII is a way to represent what as numbers?"
+    - content: "English Letters"
       isCorrect: false
-      explanation: "Explanation1"
-    - content: "Answer2"
+      explanation: "Incorrect. English letters are represented as numbers in ASCII, but they aren't the only characters that are."
+    - content: "Numbers 0-9"
       isCorrect: false
-      explanation: "Explanation2"
-    - content: "Answer3"
+      explanation: "Incorrect. Numbers 0-9 are represented as numbers in ASCII, but they aren't the only characters that are."
+    - content: "Punctuation"
       isCorrect: false
-      explanation: "Explanation3"
-    - content: "Answer4"
+      explanation: "Incorrect. Punctuation is represented as numbers in ASCII, but they aren't the only characters that are."
+    - content: "All of the Above"
       isCorrect: true
-      explanation: "Explanation4"
-  - content: "Question2"
-    - content: "Answer1"
+      explanation: "English letters, numbers 0-9, and punctuation are all represented as numbers in ASCII."
+  - content: "If you call your lassoLetter() function passing in 'p' as the letter parameter and '-2' as the shiftAmount parameter, what letter will be returned?"
+    - content: "Error"
       isCorrect: false
-      explanation: "Explanation1"
-    - content: "Answer2"
+      explanation: "Incorrect. The code you wrote works with any whole numbers, and if you send in a negative number it will just go backwards."
+    - content: "'o''"
       isCorrect: false
-      explanation: "Explanation2"
-    - content: "Answer3"
-      isCorrect: false
-      explanation: "Explanation3"
-    - content: "Answer4"
+      explanation: "Incorrect. You would have had to send in a shiftAmount of -1 to get '0'."
+    - content: "'n''"
       isCorrect: true
-      explanation: "Explanation4"
+      explanation: "Correct. The code you wrote will take the ASCII number of 'p' and add -2 to it, essnetially subtracting 2!"
+    - content: "'P''"
+      isCorrect: false
+      explanation: "Incorrect. The code you wrote cannot convert from lower case to upper case."
+  - content: "Wonder Woman wants you to meet when and where?"
+    - content: "June in Washington State"
+      isCorrect: false
+      explanation: "Incorrect. Check your code again and make sure you put in your secret message correctly!"
+    - content: "January in Montevideo"
+      isCorrect: false
+      explanation: "Incorrect. Check your code again and make sure you put in your secret message correctly!"
+    - content: "October in London"
+      isCorrect: false
+      explanation: "Incorrect. Check your code again and make sure you put in your secret message correctly!"
+    - content: "July in Washington DC"
+      isCorrect: true
+      explanation: "Correct. When you decipher the secret message using your code, you get: jul washington dc."

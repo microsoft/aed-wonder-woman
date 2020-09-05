@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.student-evangelism.python-secret-message-decoder.ceasar-cipher-complete-message
+metadata:
+  title: Use the Lasso Decoder to Decode the Secret Message
+  description: This unit walks learners through called the Ceaser cipher code to decode the secret message sent by Wonder Woman.
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Use the Lasso Decoder to Decode the Secret Message
+durationInMinutes: 
+content: |
+  [!include[](includes/4-full-decoder.md)]

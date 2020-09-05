@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.student-evangelism.python-secret-message-decoder.ceasar-cipher-one-letter-part-1
+metadata:
+  title: Decoding One Letter at a Time Part 1
+  description: This unit walks learners through building a simple Ceasar cipher in Python.
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Decoding One Letter at a Time Part 1
+durationInMinutes: 
+content: |
+  [!include[](includes/3-lasso-letter-decode-function-part-1.md)]
+    

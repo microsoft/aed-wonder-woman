@@ -2,7 +2,7 @@
 uid: learn.student-evangelism.wonder-woman-and-tech.codehunt-summary
 metadata:
   title: Summary of the Wonder Woman Codehunt Challenge
-  description: 
+  description: This module summarizes what learners should have compeleted throughout the Codehunt challenge.
   ms.date: 9/21/20
   author: 
   ms.author: sguthals
@@ -12,3 +12,19 @@ title: Summary of the Wonder Woman Codehunt Challenge
 durationInMinutes: 
 content: |
   [!include[](includes/3-summary.md)]
+  quiz:
+    title: Check your knowledge
+    questions:
+    - content: "What is true about coding?"
+      - content: "Coding isn't a part of live action movie-making."
+        isCorrect: false
+        explanation: "False. Almost every industry has software built by coders that impacts it. Even live action movies use software for special effects, editing, sound, and so much more!"
+      - content: "Coding is only for experts."
+        isCorrect: false
+        explanation: "False. While the folks building the software that lands space shuttles on the moon are experts, the beauty of learning to code is if you mess up you can just re-run your code!"
+      - content: "You have to have a Windows computer to code."
+        isCorrect: false
+        explanation: "False. Coding can be done on almost any computer, even netbooks! With software live Visual Studio Code, you can even have the same editor across multiple devices!"
+      - content: "Coding is for everyone."
+        isCorrect: true
+        explanation: "True. Even if you don't want to be a developer as your career, learning to code helps you develop problem solving skills and gives you insight into the software you use everyday."

@@ -2,13 +2,13 @@
 uid: learn.student-evangelism.python-secret-message-decoder.introduction
 metadata:
   title: Introduction to Wonder Woman's Secret Message Decoder
-  description: Introduction
+  description: Introduction to the Wonder Woman inspired secret message decoder module
   ms.date: 9/21/20
   author: 
   ms.author: sguthals
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: Introduction to Wonder Woman's Secret Message Decoder
-durationInMinutes: 1
+durationInMinutes: 
 content: |
   [!include[](includes/0-introduction.md)]

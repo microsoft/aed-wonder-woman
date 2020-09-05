@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.student-evangelism.python-secret-message-decoder.ceasar-cipher-full-word
+metadata:
+  title: Decoding Word with a Ceasar Cipher
+  description: This unit guides learners through creating a function that loops through all letters in a word to decipher an entire word.
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Decoding Word with a Ceasar Cipher
+durationInMinutes: 
+content: |
+  [!include[](includes/4-full-decoder.md)]

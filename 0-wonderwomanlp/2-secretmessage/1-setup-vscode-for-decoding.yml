@@ -2,13 +2,13 @@
 uid: learn.student-evangelism.python-secret-message-decoder.setup-vscode-for-decoding
 metadata:
   title: Ensure Visual Studio Code is Ready to Decode Messages
-  description: 
+  description: This unit ensures learners have Visual Studio Code ready to write the decoder code.
   ms.date: 9/21/20
   author: 
   ms.author: sguthals
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: Ensure Visual Studio Code is Ready to Decode Messages
-durationInMinutes: 3
+durationInMinutes: 
 content: |
   [!include[](includes/1-setup-vscode-for-decoding.md)]

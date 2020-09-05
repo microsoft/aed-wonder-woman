@@ -12,9 +12,14 @@ title: Decode Secret Messages for Wonder Woman with Python and Visual Studio Cod
 summary: There’s a secret message that needs a code cracker to find the truth. Learn how to crack a code that reveals a location inspired by WONDER WOMAN 1984. Get a glimpse into the popular Python programming language with this introductory lesson that requires no prior background. 
 abstract: |
  In this module, you will begin to discover: 
- - 
+  - Write your first lines of Python code
+  - Create a function that decodes a character using a cypher
+  - Create a function that decodes a string using a cypher
+  - Test your code by decoding the answers to a Wonder Woman Quiz
 prerequisites: |
- - None
+- Python installed
+- Visual Studio Code with Python Extension
+- No coding experience required
 iconUrl: https://docs.microsoft.com/media/learn/module.svg
 levels:
 - beginner
@@ -25,5 +30,10 @@ products:
 units:
 - learn.student-evangelism.python-secret-message-decoder.introduction
 - learn.student-evangelism.python-secret-message-decoder.setup-vscode-for-decoding
+- learn.student-evangelism.python-secret-message-decoder.python-basics-for-decoder
+- learn.student-evangelism.python-secret-message-decoder.ceasar-cipher-one-letter-part-1
+- learn.student-evangelism.python-secret-message-decoder.ceasar-cipher-one-letter-part-2
+- learn.student-evangelism.python-secret-message-decoder.ceasar-cipher-full-word
+- learn.student-evangelism.python-secret-message-decoder.summary
 badge:
   uid: 

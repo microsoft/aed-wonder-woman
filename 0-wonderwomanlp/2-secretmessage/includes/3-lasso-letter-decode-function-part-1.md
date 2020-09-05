@@ -1,4 +1,4 @@
-# Decoding One Letter at a Time 
+# Decoding One Letter at a Time Part 1
 
 If you completed the [Wonder Woman Codehunt challenge](https://www.microsoft.com/inculture/wonderwoman-1984/#codehunt) or the [Wonder Woman and the Power of Tech Learn module](), then you already have an introduction to different ways of decoding messages. Take a look at this message:
 
@@ -123,35 +123,65 @@ The next bit of code you will add to your function will be to do the following s
 2. Convert the letter to its ASCII code using `ord()`. 
 
 ```python
-# define a power (function) that finds the truth by shifting the letter by the specified amount
 def lassoLetter( letter, shiftAmount ):
-    # use the ord power to translate the letter to a special number called its ASCII code 
-    # and associate it codename letterCode
     letterCode = ord(letter.lower())
 ```
 
 **NOTE:** Make sure you have the code for the function tabbed in, otherwise it won't be read as part of the function!
 
-Quick review on what values your varaiables have:
+So, if you were decoding the message above, then you'd want to shift 'W' by 13. If that were the case, you can quick review what values your varaiables would have:
 - `letter`= 'W'
-- shiftAmount = 
+- `shiftAmount` = 13
+- `letterCode` = `ord('w')` = 119
 
-## Calculating the Decoded Character
+## Calculating the Decoded Character: The simple way
 
+Now it's time to calculate the new character. First, review the original example. If you had 'a' and wanted to get 'c' then you would do the following:
+1. Make sure 'a' was lower case
+2. Convert 'a' to 97 using the `ord()` function and save 97 in a variable called `letterCode`
+3. Add a `shiftAmount` of 2 to the `letterCode` amount of 97 and get 99 and store 99 in a variable called `decodedLetterCode`
+4. Convert 99 back to a character using the `chr()` function (which just does the opposite of the `ord()` function) and store 'c' in a variable called `decodedLetter`
+5. Return the `decodedLetter` value of `c`
 
-
+So you might do something like this:
 ```python
-# define a power (function) that finds the truth by shifting the letter by the specified amount
-def lassoLetter( letter, shiftAmount ):
-    # use the ord power to translate the letter to a special number called its ASCII code 
-    # and associate it codename letterCode
-    letterCode = ord(letter.lower())
-    
-    # shift the ASCII code to find the true letter's ASCII code
-    # (my team says that ASCII codes are in order, starting with the code for the letter a)
-    trueLetterCode = ord("a") + ((letterCode - ord("a"))+shiftAmount) % 26
-   
-    # now reveal the true letter by using the chr power to translate back from ASCII
-    # "return" this as a result of invoking the power lassoLetter
-    return chr(trueLetterCode)
+letterCode = ord(letter.lower())
+
+decodedLetterCode = letterCode + shiftAmount
+
+decodedLetter = chr(decodedLetterCode)
+
+return decodedLetter
 ```
+
+So let's see what would happen if you did that with the first letter of the actual secret message, 'W', and the actual shiftAmount, 13:
+
+| Variable | Value | 
+|----------|-------|
+| letter | 'W' |
+| shiftAmount | 13 |
+| letterCode | `ord('w')` = 119 |
+| decodedLetterCode | 119 + 13 = 132 |
+| decodedLetter | chr(132) = `error` |
+
+That wouldn't work...because a Ceasar cipher will loop around back to 'a' when it's reached 'z'...
+
+So, to take into account that loop, you will have to change your formula for getting the `decodedLetterCode` value. Instead of just adding the `shiftAmount` to the `letterCode` you have to figure out what the **true** letter code would be for the decoded letter. 
+
+## The Mod Operator
+
+To do this, you will need a special operator called `mod` and represented as %. 
+
+Mod (%) will divide two numbers and return the remainder. So, for example, if you ran the following code in Python:
+```python
+threeTwo = 3 % 2
+elevenFour = 11 % 4 
+fiveTen = 5 % 10
+```
+
+You would get:
+| Variable | Formula | Value |
+|----------|---------|-------|
+| threeTwo | 3/2 = 1 remainder 1 | 1 |
+| elevenFour | 11/4 = 8 remainder 3 | 3 |
+| fiveTen | 5/10 = 0 remainder 5 | 5 |

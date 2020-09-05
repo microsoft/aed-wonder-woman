@@ -1,14 +1,10 @@
 # Introduction to Wonder Woman's Secret Message Decoder
 
-## Let's learn to crack this code to find the easter egg
+Wonder Woman has left you a secret message with a time and place of the next super hero meeting. Only problem is...it's been encoded to avoid enemies discovering it.
 
-<img width="576" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
+![Encoded Message]()
 
-With [Visual Studio Code](https://code.visualstudio.com/learn/) and the power of Python you will write a decoder program.
-
-With the program you write, discover the secret message encoded with a location and date inspired by WONDER WOMAN 1984. Time to see if you can crack this code to find the easter egg within this module!
-
-![Secret Message to Decode]()
+With [Visual Studio Code](https://code.visualstudio.com/learn/) and the power of Python you will write a decoder program to figure our when and where you need to be! Inspired by [WONDER WOMAN 1984](https://www.wonderwomanfilm.com/) film, write your first lines of Python and have fun while doing it!
 
 Before you can start cracking the code, make sure you have setup your local developer environment by following the [Set up your Python beginner development environment with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/) Learn module.
 

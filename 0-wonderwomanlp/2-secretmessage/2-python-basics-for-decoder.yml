@@ -1,14 +1,14 @@
 ### YamlMime:ModuleUnit
-uid: 
+uid: learn.student-evangelism.python-secret-message-decoder.python-basics-for-decoder
 metadata:
-  title: 
-  description: 
+  title: Python Basics Needed for a Wonder Woman Message Decoder
+  description: This unit gives a high-level overview of some basic Python concepts used throughout this project.
   ms.date: 9/21/20
   author: 
-  ms.author: @sguthals
+  ms.author: sguthals
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-title: 
-durationInMinutes: 3
+title: Python Basics Needed for a Wonder Woman Message Decoder
+durationInMinutes: 
 content: |
-  [!include[](includes/2-unit.md)]
+  [!include[](includes/2-python-basics-for-decoder.md)]
