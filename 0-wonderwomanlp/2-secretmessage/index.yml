@@ -14,8 +14,8 @@ abstract: |
  In this module, you will begin to discover: 
   - Write your first lines of Python code
   - Create a function that decodes a character using a cypher
-  - Create a function that decodes a string using a cypher
-  - Test your code by decoding the answers to a Wonder Woman Quiz
+  - Create a function that decodes a word using a cypher
+  - Discover where the next super hero meeting is
 prerequisites: |
 - Python installed
 - Visual Studio Code with Python Extension

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.student-evangelism.python-quiz-builder.quiz-score
+metadata:
+  title: Choosing a Wonder Woman Character Based on a Personality Quiz
+  description: This unit walks you through scoring a quiz and assigning characters based on personality questions in Python.
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Python Basics Needed for a Wonder Woman Personality Quiz
+durationInMinutes: 
+content: |
+  [!include[](includes/6-scoring-a-quiz-in-python.md)]

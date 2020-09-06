@@ -1,43 +1,30 @@
 ### YamlMime:ModuleUnit
-uid: 
+uid: learn.student-evangelism.python-quiz-builder.summary
 metadata:
-  title: Summary
+  title: What's Next in the World of Personality Quizzes?
   description: Summary
   ms.date: 9/21/20
   author: 
-  ms.author: @sguthals
+  ms.author: sguthals
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-title: Summary
-durationInMinutes: 4
+title: What's Next in the World of Personality Quizzes?
+durationInMinutes: 
 content: |
-  [!include[](includes/3-summary.md)]
+  [!include[](includes/7-summary.md)]
 quiz:
   title: Check your knowledge
   questions:
-  - content: "Question1"
-    - content: "Answer1"
+  - content: "If you have an `elif` statment, what does the last conditional statement need to be?"
+    - content: "An if-statement"
       isCorrect: false
-      explanation: "Explanation1"
-    - content: "Answer2"
+      explanation: "Incorrect, the first statement always has to be an if-statement."
+    - content: "An elif-statement"
       isCorrect: false
-      explanation: "Explanation2"
-    - content: "Answer3"
-      isCorrect: false
-      explanation: "Explanation3"
-    - content: "Answer4"
+      explanation: "Incorrect, but you can have as many elif-statements as you want."
+    - content: "An else-statement"
       isCorrect: true
-      explanation: "Explanation4"
-  - content: "Question2"
-    - content: "Answer1"
+      explanation: "Correct, you must end an elif-statement with an else-statement"
+    - content: "Any; if-, elif-, or else-statement"
       isCorrect: false
-      explanation: "Explanation1"
-    - content: "Answer2"
-      isCorrect: false
-      explanation: "Explanation2"
-    - content: "Answer3"
-      isCorrect: false
-      explanation: "Explanation3"
-    - content: "Answer4"
-      isCorrect: true
-      explanation: "Explanation4"
+      explanation: "Incorrect, only one is correct."

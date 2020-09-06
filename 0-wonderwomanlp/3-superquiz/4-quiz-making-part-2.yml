@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.student-evangelism.python-quiz-builder.quiz-part-2
+metadata:
+  title: The Making of a Wonder Woman Quiz Part 2
+  description: This unit introduces if-, elif-, and else-statements in Python
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: The Making of a Wonder Woman Quiz Part 2
+durationInMinutes: 
+content: |
+  [!include[](includes/3-quiz-making-part-2.md)]

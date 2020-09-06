@@ -13,8 +13,8 @@ Before you can start cracking the code, make sure you have setup your local deve
 In this module, you'll
 - Write your first lines of Python code
 - Create a function that decodes a character using a cypher
-- Create a function that decodes a string using a cypher
-- Test your code by decoding the answers to a Wonder Woman Quiz
+- Create a function that decodes a word using a cypher
+- Discover where the next super hero meeting is
 
 ## Prerequisites
 

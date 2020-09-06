@@ -1,31 +1,38 @@
-# Title matches yml
+# Ensure Visual Studio Code is Ready to Create a Personality Quiz
 
-Let’s start by creating a folder on your computer where you can find easily it. Call it “WW84”—I created mine in my Documents folder.
+Before you jump in to writing a program to decode messages, you should make sure your local environment is setup properly.
 
-_**Note:** If you already followed the previous lesson where you decoded a secret message, you can use the same folder as before._
+Let’s start by creating a folder on your computer where you can find easily it. Call it “WW84”. For example, you might create it in your Documents folder.
 
-<img width="588" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89684912-30099700-d8b0-11ea-952c-18ac54736ba0.png">
+_**Note:** If you already followed the previous module in this learning path where you [decoded a secret message](), you can use the same folder as before._
+
+![WW84 folder creation]()
 
 Then open Visual Studio Code and select "Open folder..." from the start screen; open your WW84 folder.
 
-<img width="393" src="https://user-images.githubusercontent.com/12758612/84750307-f5e6dd80-af6f-11ea-8001-741dd19422d2.png">
+![Select open folder in VSCode]()
 
----
+Next create a file called "quiz.py".
 
-Let's create a file called "quiz.py".
+![Create a new file called quiz.py]()
 
-<img width="617" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89687433-1880dd00-d8b5-11ea-87ba-c0601a012162.png">
+Also feel free to close the Welcome tab now.
 
-Feel free to close the Welcome tab now.
-
-_**Note:** As you are coding in Python, Visual Studio Code will suggest other powers to add to Visual Studio Code, such as "Linters". You don't need these for this project, so feel free to ignore them._
+**Note:** As you are coding in Python, Visual Studio Code will suggest other powers to add to Visual Studio Code, such as "Linters". You don't need these for this project, so feel free to ignore them.
 
 
-The first thing we’ll do is make sure our command center works. We’ll give a simple command that tells the Python to print us a message. Copy the following command into your file:
+The first thing we’ll do is make sure our command center (code editor) works. We’ll give a simple command that tells the Python to print us a message. Copy the following command into your file:
+
 ```python
 print( "Hello, Themyscira!" )
 ```
 
+Your editor should resemble this:
+
+![Hello, Themyscira code]()
+
 To have the Python follow your commands, press the green Play button in the upper right corner. You should see a message from the Python below.
 
-<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89687559-4c5c0280-d8b5-11ea-9b0f-1a681891a2e2.png">
+![Hello, Themyscira execution]()
+
+Now you're ready to learn some of the Python basics needed to build your quiz.

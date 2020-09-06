@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.student-evangelism.python-quiz-builder.quiz-part-3
+metadata:
+  title: The Making of a Wonder Woman Quiz Part 3
+  description: This unit introduces how to keep track of user responses
+  ms.date: 9/21/20
+  author: 
+  ms.author: sguthals
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: The Making of a Wonder Woman Quiz Part 3
+durationInMinutes: 
+content: |
+  [!include[](includes/3-quiz-making-part-3.md)]

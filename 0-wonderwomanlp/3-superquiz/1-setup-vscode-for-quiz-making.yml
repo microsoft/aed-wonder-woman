@@ -1,14 +1,14 @@
 ### YamlMime:ModuleUnit
-uid: 
+uid: learn.student-evangelism.python-quiz-builder.setup-vscode
 metadata:
-  title: 
-  description: 
+  title: Ensure Visual Studio Code is Ready to Create a Personality Quiz
+  description: This unit ensures learners have Visual Studio Code ready to write the quiz code.
   ms.date: 9/21/20
   author: 
-  ms.author: @sguthals
+  ms.author: sguthals
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-title: 
-durationInMinutes: 3
+title: Ensure Visual Studio Code is Ready to Create a Personality Quiz
+durationInMinutes: 
 content: |
-  [!include[](includes/1-unit.md)]
+  [!include[](includes/1-setup-vscode-for-quiz-making.md)]
