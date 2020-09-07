@@ -1,7 +1,6 @@
 # Dive into Wonder Woman's World
 
-![Wonder Woman Art]()
-TM & © DC and WBEI. RATED PG-13
+![Wonder Woman Art](0-wonderwomanlp/0-wonderwomanintro/media/ww-synopsis-art.jpg)
 
 The plot of [1984](https://www.wonderwomanfilm.com/) depends on not only on Wonder Woman's strength and resilience, but also her ability to harness technology for good. So, before you begin your journey alongside Wonder Woman, we invite you to jump into the mindset of a super hero yourself. 
 

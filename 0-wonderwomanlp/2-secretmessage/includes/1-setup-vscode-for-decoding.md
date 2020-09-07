@@ -4,15 +4,15 @@ Before you jump in to writing a program to decode messages, you should make sure
 
 Let’s start by creating a folder on your computer where you can find easily it. Call it “WW84”—I created mine in my Documents folder.
 
-![WW84 folder creation]()
+![WW84 folder creation](0-wonderwomanlp/2-secretmessage/media/create-folder.png)
 
 Then open Visual Studio Code and select "Open folder..." from the start screen; open your WW84 folder.
 
-![Select open folder in VSCode]()
+![Select open folder in VSCode](0-wonderwomanlp/2-secretmessage/media/open-folder-vscode.png)
 
 Next create a file called "decrypt.py".
 
-![Create a new file called decrypt.py]()
+![Create a new file called decrypt.py](0-wonderwomanlp/2-secretmessage/media/create-decrypt-file.png)
 
 Also feel free to close the Welcome tab now.
 
@@ -27,11 +27,11 @@ print( "Hello, Themyscira!" )
 
 Your editor should resemble this:
 
-![Hello, Themyscira code]()
+![Hello, Themyscira code](0-wonderwomanlp/2-secretmessage/media/hello-themyscira.png)
 
 To have the Python follow your commands, press the green Play button in the upper right corner. You should see a message from the Python below.
 
-![Hello, Themyscira execution]()
+![Hello, Themyscira execution](0-wonderwomanlp/2-secretmessage/media/output-string-variables.png)
 
 Now you're ready to learn some of the Python basics needed to build your decoder.
 
