@@ -78,3 +78,4 @@ Press the Play Button, and you should see the chant printed in the console at th
 
 Great! Now that you know the basics, let's get to decrypting the note!
 
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13

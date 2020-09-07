@@ -1,5 +1,9 @@
 # Introduction to Wonder Woman's Secret Message Decoder
 
+![Wonder Woman 1984 Film Card]()
+
+![Secret Message Promo]()
+
 Wonder Woman has left you a secret message with a time and place of the next super hero meeting. Only problem is...it's been encoded to avoid enemies discovering it.
 
 ![Encoded Message]()
@@ -7,6 +11,8 @@ Wonder Woman has left you a secret message with a time and place of the next sup
 With [Visual Studio Code](https://code.visualstudio.com/learn/) and the power of Python you will write a decoder program to figure our when and where you need to be! Inspired by [WONDER WOMAN 1984](https://www.wonderwomanfilm.com/) film, write your first lines of Python and have fun while doing it!
 
 Before you can start cracking the code, make sure you have setup your local developer environment by following the [Set up your Python beginner development environment with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/) Learn module.
+
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13
 
 ## Learning Objectives
 

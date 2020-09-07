@@ -1,4 +1,8 @@
-# The Super Quiz: Making Your Own Personality Quiz
+# The Super Quiz: Making Your Own Personality Quiz Inspired by WONDER WOMAN 1984, Coming to Theaters
+
+![Wonder Woman 1984 Film Card]()
+
+![Quiz Promo]()
 
 Have you ever taken a personality quiz? Where you answer a series of multiple-choice questions and find out things like... "What type of emoji are you?"
 
@@ -29,6 +33,8 @@ You can see that it really doesn't matter what kind of food the quiz-taker choos
 With [Visual Studio Code](https://code.visualstudio.com/learn/) and the power of Python and inspired by the [WONDER WOMAN 1984](https://www.wonderwomanfilm.com/) film, you're going to get a chance to make your own "Which WONDER WOMAN 1984 Character are you most like?" quiz. Now you'll have the power to control the outcome of who your friends and family are most like from the movie (maybe you can even add in an easter egg so that you ALWAYS get Wonder Woman...)!
 
 If you haven't already, make sure you have setup your local developer environment by following the [Set up your Python beginner development environment with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/) Learn module.
+
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13
 
 ## Learning Objectives
 

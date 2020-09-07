@@ -22,3 +22,5 @@ print( "Shifting ED by 13 gives: \n" + lassoWord( "ED", 25 ) )
 ```
 
 Press the Play Button, and you should see the final clue to the true meeting place and time revealed.
+
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13

@@ -21,3 +21,5 @@ Throughout these missions you also used three different decoders: Binary to ASCI
 That's the beauty of learning to code, you can be creative and build ways to entertain yourself and your friends and automate tasks that have clear rules. With the first steps of Python under your belt, you will be able to continue your journey to help restore balance in our world towards good instead of evil. 
 
 After you complete this learning path, you can find other Learn modules to inspire your next steps on our [Student page](https://docs.microsoft.com/en-us/learn/roles/student). From [tracking global air quality with Azure Maps](https://docs.microsoft.com/en-us/learn/modules/azure-maps-track-air-pollution/) to [helping remote farmets protect their crops with text message weather alerts using Azure Functions](https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/) we are here to guide you through new tech, new coding skills, and engaging problems to solve!
+
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13

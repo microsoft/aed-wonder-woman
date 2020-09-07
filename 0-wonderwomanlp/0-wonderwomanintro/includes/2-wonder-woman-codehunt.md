@@ -5,3 +5,5 @@ Along with a number of [Wonder Woman inspired activities](https://www.microsoft.
 < INSERT VIDEO HERE >
 
 Before going on to write your own message decoders, try to solve the Code Hunt! Even though the sweepstakes is over, choosing to accept this Codehunt mission will help you wake up your mind and get your brain into problem solving mode. 
+
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13

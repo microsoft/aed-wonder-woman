@@ -76,3 +76,5 @@ A few things to note with elif-statements:
 - If you wanted to give the user a chance to choose a correct answer, it is a much more complicated solution which is beyond the scope of this module
 
 Now you're ready to ask all of the questions!
+
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13

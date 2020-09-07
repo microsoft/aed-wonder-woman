@@ -58,3 +58,5 @@ else:
     print( "You're most like Max Lord!")
 ```
 Press the Play button and find out which WONDER WOMAN 1984 personality you’re most like!
+
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13

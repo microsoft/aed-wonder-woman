@@ -185,3 +185,5 @@ You would get:
 | threeTwo | 3/2 = 1 remainder 1 | 1 |
 | elevenFour | 11/4 = 8 remainder 3 | 3 |
 | fiveTen | 5/10 = 0 remainder 5 | 5 |
+
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13

@@ -66,3 +66,5 @@ else:
 print( f"You chose {weapon}, then {job}, then {value}, then {decade}, then {animal}.")
 ```
 Press the Play button and make sure your responses are recorded correctly.
+
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13

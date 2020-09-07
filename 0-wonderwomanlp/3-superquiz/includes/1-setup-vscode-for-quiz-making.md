@@ -36,3 +36,5 @@ To have the Python follow your commands, press the green Play button in the uppe
 ![Hello, Themyscira execution]()
 
 Now you're ready to learn some of the Python basics needed to build your quiz.
+
+WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13
