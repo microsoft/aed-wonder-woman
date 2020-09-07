@@ -11,9 +11,9 @@ As an added challenge, you can start exploring how you might:
 - Create a function that reads in an entire message without having to print each word individually
 - Modify your decoder to include numbers
 
-## Discovering your Super Powers
+## Discovering your Powers
 
-With the location and time of the next super hero meeting decoded, it's now time to figure out which super hero you really are! In the next module in this learning path you will [create a quiz to determine Your super power with Python and Visual Studio Code]().
+With the location and time of the next super hero meeting decoded, it's now time to figure out which super hero you really are! In the next module in this learning path you will [create a quiz to determine your personality with Python and Visual Studio Code]().
 
 ## Dive Deeper into Python
 

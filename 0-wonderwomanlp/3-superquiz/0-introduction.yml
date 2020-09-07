@@ -1,14 +1,14 @@
 ### YamlMime:ModuleUnit
 uid: learn.student-evangelism.python-quiz-builder.introduction
 metadata:
-  title: The Super Quiz: Making Your Own Personality Quiz
+  title: The Personality Quiz - How are they made?
   description: Introduction
   ms.date: 9/21/20
   author: 
   ms.author: sguthals
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-title: The Super Quiz: Making Your Own Personality Quiz
+title: The Personality Quiz - How are they made?
 durationInMinutes: 
 content: |
   [!include[](includes/0-introduction.md)]

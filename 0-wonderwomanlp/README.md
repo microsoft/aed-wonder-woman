@@ -91,10 +91,10 @@ question: "Wonder Woman wants you to meet when and where?"
     - explanation: "Correct. When you decipher the secret message using your code, you get: jul washington dc.
 
 ## Module 2 Title 
-Create a Quiz to Determine Your Super Power with Python and Visual Studio Code
+Program your own personality quiz with Python and Visual Studio Code
 
 ### Unit Titles
-- The Super Quiz: Making Your Own Personality Quiz
+- The Personality Quiz - How are they made?
 - Ensure Visual Studio Code is Ready to Create a Personality Quiz
 - Python Basics Needed for a Wonder Woman Personality Quiz
 - The Making of a Wonder Woman Quiz Part 1
