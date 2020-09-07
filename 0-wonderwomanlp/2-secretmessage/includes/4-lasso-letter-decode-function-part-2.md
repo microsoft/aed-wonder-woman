@@ -1,6 +1,28 @@
 # Decoding One Letter at a Time Part 2
 
+Figuring out the **true** letter code that matches the decoded letter will involve cycling around the alphabet. So, if your `letterCode` + `shiftAmount` is equal to or greater than 123, you need to return back to 97 to continue counting.
 
+How do you get 123? It's just 97 (the letter code for the 'a' character) plus 26 (the number of letters in the alphabet). And if you look at the ASCII number for 'z', you will see that it is 122!
+
+So you could write conditional statements to check this, but there is an easier way!
+
+## The Mod Operator
+
+To wrap around the alphabet the easy way, you will need a special operator called `mod` and represented as %. 
+
+Mod (%) will divide two numbers and return the remainder. So, for example, if you ran the following code in Python:
+```python
+threeTwo = 3 % 2
+elevenFour = 11 % 4 
+fiveTen = 5 % 10
+```
+
+You would get:
+| Variable | Formula | Value |
+|----------|---------|-------|
+| threeTwo | 3/2 = 1 remainder 1 | 1 |
+| elevenFour | 11/4 = 8 remainder 3 | 3 |
+| fiveTen | 5/10 = 0 remainder 5 | 5 |
 
 ## Calculating the Decoded Character: The right way 
 

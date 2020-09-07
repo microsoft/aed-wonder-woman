@@ -2,6 +2,8 @@
 
 Now it's time to create the outline of your quiz code! 
 
+![Quiz promo](../media/ww84_edu_02_github_program_quiz.png)
+
 To start, you will ask five questions and have only two options for each: 
 
 1. Which weapon? (A) Lasso (B) No weapons 
@@ -37,11 +39,11 @@ print( f"You chose {weapon}.")
 
 Press the Play button, and you should see the question print out, along with the options. Click in the TERMINAL area and try typing A then “enter” to see what happens.
 
-![Question 1 printed in the console]()
+![Question 1 printed in the console](../media/question-1-output.png)
  
 Notice that the weapon variable simply stores whatever you typed. Try typing lion instead and see what happens…
 
-![Answering with lion instead of A or B]()
+![Answering with lion instead of A or B](../media/lion-answer.png)
  
 For now, let’s assume the user understands that they should type either 'A' or 'B', whichever corresponds with their choice; and that they should capitlaize it correctly. 
 
@@ -54,7 +56,7 @@ if weapon == "A":
 ```
 Press the Play button and try entering A as your choice. Be sure to type in a capital A.
 
-![Demonstrating the execution of an if-statement]()
+![Demonstrating the execution of an if-statement](../media/chosing-a.png)
 
 What do you think will happen if you choose 'B' instead? Try writing some code to see if you can account for that and then go on to the next unit to see different ways of doing it!
 

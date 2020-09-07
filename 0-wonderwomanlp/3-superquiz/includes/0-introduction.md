@@ -1,8 +1,8 @@
 # The Super Quiz: Making Your Own Personality Quiz Inspired by WONDER WOMAN 1984, Coming to Theaters
 
-![Wonder Woman 1984 Film Card]()
+![Wonder Woman 1984 Film Card](../media/ww84_edu_github_title_card.png)
 
-![Quiz Promo]()
+![Quiz Promo](../media/ww84_edu_02_github_program_quiz.png)
 
 Have you ever taken a personality quiz? Where you answer a series of multiple-choice questions and find out things like... "What type of emoji are you?"
 

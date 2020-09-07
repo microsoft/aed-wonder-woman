@@ -12,7 +12,7 @@ Try adding the following to your file:
 ```
 Press the Play Button, and you should see the same behavior as before.
 
-![Python comments do not change execution]()
+![Python comments do not change execution](../media/python-comments.png)
  
 ## Variables
 
@@ -41,7 +41,7 @@ print( "I believe diana is actually " + diana )
 
 Press the Play Button, and you should see Diana’s identity revealed.
 
-![The output to printing the string value of a variable]()
+![The output to printing the string value of a variable](../media/output-string-variables.png)
  
 ## Functions
 
@@ -74,7 +74,7 @@ chant( "WONDER WOMAN 1984! " )
 ```
 Press the Play Button, and you should see the chant printed in the console at the bottom of the Visual Studio Code window.
 
-![The output from calling the chant function]()
+![The output from calling the chant function](../media/chant_output.png)
 
 Great! Now that you know the basics, let's get to decrypting the note!
 

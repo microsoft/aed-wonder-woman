@@ -11,7 +11,7 @@ Try adding the following to your file:
 ```
 Press the Play button, and you should see the same behavior as before.
 
-![Python comments do not change execution]()
+![Python comments do not change execution](../media/comments.png)
  
 ## Variables
 If you want the Python to remember something, you can command it to “write it down” using a variable. 
@@ -35,7 +35,7 @@ print( f"The year is {year}..." )
 
 Press the Play Button, and you should see the year print out.
 
-![The output to printing the value of a variable]()
+![The output to printing the value of a variable](../media/quiz-print-variable.png)
 
 We can update the value of a variable using the same assignment (`=` sign) operator. The Python will figure out the right-hand side before storing it in the variable. Since “year” already has a value, this command will ask the Python to first substitute the current value of “year” (which is 1984), add 36 to it, then store that value in the variable “year”. This effectively overwrites the value that was written down originally. Try it out by replacing the commands in your file with the following.
 
@@ -54,7 +54,7 @@ print( f"The year is now {year}..." )
 
 Press the Play Button, and you should see the years print out.
 
-![Updating a variable in Python]()
+![Updating a variable in Python](../media/updating-variable.png)
  
 ## Conditionals
 
@@ -107,7 +107,7 @@ if year == 2020:
 ```
 Press the Play button, and you should see the state-of-the-art in messaging.
 
-![The output from the conditional statement]()
+![The output from the conditional statement](../media/quiz-output-conditionals.png)
 
 How would you change the year so that you get a message on your answering machine instead?
 

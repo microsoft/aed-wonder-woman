@@ -152,7 +152,7 @@ print( "Shifting terra by 13 gives: \n" + lassoWord( "terra", 13 ) )
 
 Now, when you press the Play button, You should see the word "green" printed in the console:
 
-![Testing lasso function calls]()
+![Testing lasso function calls](../media/testing.png)
 
 # Checkin: Entire decrypt.py file
 

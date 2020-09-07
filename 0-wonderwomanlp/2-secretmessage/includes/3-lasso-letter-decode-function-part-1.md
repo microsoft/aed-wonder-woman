@@ -2,7 +2,7 @@
 
 If you completed the [Wonder Woman Codehunt challenge](https://www.microsoft.com/inculture/wonderwoman-1984/#codehunt) or the [Wonder Woman and the Power of Tech Learn module](), then you already have an introduction to different ways of decoding messages. Take a look at this message:
 
-![Encoded Message]()
+![Encoded Message](../media/secretmessage.png)
 
 With your new decoding knowledge, which decoder do you think would work best to decipher the true meaning of the words "WHY", “oskza”, “ohupo”, and "ED"?
 
@@ -167,23 +167,5 @@ So let's see what would happen if you did that with the first letter of the actu
 That wouldn't work...because a Ceasar cipher will loop around back to 'a' when it's reached 'z'...
 
 So, to take into account that loop, you will have to change your formula for getting the `decodedLetterCode` value. Instead of just adding the `shiftAmount` to the `letterCode` you have to figure out what the **true** letter code would be for the decoded letter. 
-
-## The Mod Operator
-
-To do this, you will need a special operator called `mod` and represented as %. 
-
-Mod (%) will divide two numbers and return the remainder. So, for example, if you ran the following code in Python:
-```python
-threeTwo = 3 % 2
-elevenFour = 11 % 4 
-fiveTen = 5 % 10
-```
-
-You would get:
-| Variable | Formula | Value |
-|----------|---------|-------|
-| threeTwo | 3/2 = 1 remainder 1 | 1 |
-| elevenFour | 11/4 = 8 remainder 3 | 3 |
-| fiveTen | 5/10 = 0 remainder 5 | 5 |
 
 WONDER WOMAN 1984 TM & © DC and WBEI. RATED PG-13

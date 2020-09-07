@@ -6,15 +6,15 @@ Let’s start by creating a folder on your computer where you can find easily it
 
 _**Note:** If you already followed the previous module in this learning path where you [decoded a secret message](), you can use the same folder as before._
 
-![WW84 folder creation]()
+![WW84 folder creation](../media/quiz-create-folder.png)
 
 Then open Visual Studio Code and select "Open folder..." from the start screen; open your WW84 folder.
 
-![Select open folder in VSCode]()
+![Select open folder in VSCode](../media/quiz-open-folder.png)
 
 Next create a file called "quiz.py".
 
-![Create a new file called quiz.py]()
+![Create a new file called quiz.py](../media/quiz-file.png)
 
 Also feel free to close the Welcome tab now.
 
@@ -29,11 +29,9 @@ print( "Hello, Themyscira!" )
 
 Your editor should resemble this:
 
-![Hello, Themyscira code]()
+![Hello, Themyscira code](../media/quiz-hello-world.png)
 
 To have the Python follow your commands, press the green Play button in the upper right corner. You should see a message from the Python below.
-
-![Hello, Themyscira execution]()
 
 Now you're ready to learn some of the Python basics needed to build your quiz.
 

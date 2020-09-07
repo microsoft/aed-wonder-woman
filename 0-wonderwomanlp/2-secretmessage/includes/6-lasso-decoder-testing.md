@@ -2,7 +2,7 @@
 
 As a reminder, the secret message you're trying to decide is:
 
-![Encoded Message]()
+![Encoded Message](../media/secretmessage.png)
 
 And what you know is:
 1.	The word "WHY" needs to be shifted by 13,
