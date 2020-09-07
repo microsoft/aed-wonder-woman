@@ -1,8 +1,8 @@
 # Wonder Woman and the Power of Tech
 
-![Wonder Woman 1984 Film Card](0-wonderwomanlp/0-wonderwomanintro/media/ww84_edu_github_title_card.png)
+![Wonder Woman 1984 Film Card](../media/ww84_edu_github_title_card.png)
 
-![Codehunt Promo](0-wonderwomanlp/0-wonderwomanintro/media/ww-synopsis-art.jpg)
+![Codehunt Promo](../media/ww-synopsis-art.jpg)
 
 1984 is bold, grand, and electric. It’s an era of excess and corruption, and in [WONDER WOMAN 1984](https://www.wonderwomanfilm.com/) it's the year Wonder Woman must harness the power of technology to restore balance to the world. And Microsoft is partnering with the film to empower coders and creators of all ages to learn technology skills they can use for greater good.
 
