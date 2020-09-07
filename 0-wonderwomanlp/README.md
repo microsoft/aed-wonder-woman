@@ -34,7 +34,7 @@ question: "What is true about coding?"
     - isCorrect: true
     - explanation: "True. Even if you don't want to be a developer as your career, learning to code helps you develop problem solving skills and gives you insight into the software you use everyday."
 
-## Module 1 Title
+## Module 2 Title
 Decode Secret Messages for Wonder Woman with Python and Visual Studio Code
 
 ### Unit Titles 
@@ -90,7 +90,7 @@ question: "Wonder Woman wants you to meet when and where?"
     - isCorrect: true
     - explanation: "Correct. When you decipher the secret message using your code, you get: jul washington dc.
 
-## Module 2 Title 
+## Module 3 Title 
 Program your own personality quiz with Python and Visual Studio Code
 
 ### Unit Titles
